@@ -1,2 +1,2 @@
-# include the dll's here
-!*.dll
+*.dll
+*.pdb
